@@ -1,5 +1,5 @@
 ---
 layout: layouts/page.njk
-pagetitle: Personal Website
+pagetitle: amticopyright
 sectionGroupList: personal-site
 ---
